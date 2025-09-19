@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Self Check-in - Casa Leda</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+      color: #333;
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1, h2 {
+      text-align: center;
+      color: #444;
+    }
+    h1 {
+      margin-bottom: 0;
+      font-size: 28px;
+    }
+    h2 {
+      margin-top: 5px;
+      font-size: 20px;
+      font-weight: normal;
+    }
+    ol {
+      margin-left: 20px;
+    }
+    .contact {
+      margin-top: 20px;
+      padding: 10px;
+      background: #eef;
+      border-left: 4px solid #446;
+    }
+    .footer {
+      margin-top: 30px;
+      text-align: center;
+      font-style: italic;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h1>Self Check-in</h1>
+  <h2>C A S A &nbsp; L E D A – Polluce Apartment</h2>
+
+  <p>Dear Guests,</p>
+  <p>
+    We are delighted that you have chosen our apartment and we are pleased to send you some important information for your self check-in.  
+    Our property is equipped with electronic locks, allowing our guests to manage comfortably the check-in and check-out processes, without being constrained by pre-established arrival times.
+  </p>
+
+  <p><strong>The access to the combination lock is very simple:</strong></p>
+  <ol>
+    <li>You will find the first keypad next to the gate. To be able to access, please enter the following code: <strong>202512#</strong>.</li>
+    <li>You will find the second keypad by the entrance door. To be able to access, please enter the same code: <strong>202512#</strong>.</li>
+    <li>Finally, inside the building your apartment will be located on the left. Beside the door you will find a key box containing your key card. To open the key box, use the code: <strong>2507</strong>.</li>
+  </ol>
+
+  <p>
+    Now you have the card to open all access points (iron gate, entrance door and apartment door). Simply place the card on the respective readers.
+    When you are opening the apartment, please remember to insert the card into the appropriate slot, so that all the electrical services in the room, such as lights, air conditioning, etc., will be activated.
+  </p>
+
+  <div class="contact">
+    <p><strong>In case of any difficulties,</strong> please contact us by texting or calling the following number <strong>+39 3939121187</strong> (also via WhatsApp), which is the owner Pancrazio. He will assist you remotely to simplify your check-in.</p>
+  </div>
+
+  <p>
+    Thank you for choosing our apartment and we assure you that we will do everything possible to ensure you a pleasant stay!
+    For further information we are always at your complete disposal.
+  </p>
+
+  <div class="footer">
+    <p>Kind regards,<br>The Casa Leda Team</p>
+  </div>
+</body>
+</html>
